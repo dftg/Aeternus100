@@ -568,8 +568,8 @@
             "specialities": {},
             "cost": 0
           },
-          "psyniscience": {
-            "label": "SKILL.PSYNISCIENCE",
+          "spellcraft": {
+            "label": "SKILL.SPELLCRAFT",
             "characteristics": [
               "Per",
               "WP"
